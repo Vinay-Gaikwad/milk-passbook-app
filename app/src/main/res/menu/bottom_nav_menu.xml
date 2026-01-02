@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/home_icon"/>
+    <item android:id="@+id/nav_periodic"
+        android:title="Periodic"
+        android:icon="@drawable/entry"/>
+</menu>
